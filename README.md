@@ -29,4 +29,4 @@ Options:
 - use cli_set_process_title() to hide WS credentials
 - read password with readline from stdin, so it is not recorded in shell history
 - parallel download?
-- allow running post-process command (i.e. to convert video downloaded video files) 
+- allow running post-process command (i.e. to convert downloaded video files) 
